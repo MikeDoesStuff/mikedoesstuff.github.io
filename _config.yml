@@ -43,8 +43,8 @@ social_media:
   twitter: michael_h_98
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  youtube: your_username
+  website: http://michaelhughes.me
+  #youtube: your_username
 
 topics:
   - name: C# & .NET
